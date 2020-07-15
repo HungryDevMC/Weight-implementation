@@ -1,0 +1,3 @@
+name: Weight-implementation
+main: be.jflanders.weight_impl.WeightPlugin
+version: 0.1
